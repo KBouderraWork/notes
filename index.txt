@@ -1,5 +1,5 @@
 I need to create thumbnail starting from a WebP image but ImageIO doesn't support this format. Are there any library that allow me to do something like this ?
 another line 2022/09
 @CC khalil Work from 2022
-something wrong
+hola something wrong
 where ?
